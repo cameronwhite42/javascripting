@@ -17,3 +17,7 @@
       javascripting verify object-properties.js
  */
 
+var food ={
+types:'only pizza'
+};
+console.log(food.types);
